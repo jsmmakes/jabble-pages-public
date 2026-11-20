@@ -12,8 +12,8 @@ Static pages App Store Connect needs before release. No build step: plain HTML +
 
 Replace the placeholders in all three pages:
 
-- `[DEVELOPER NAME]` – your name or company, as on your developer account
-- `[CONTACT EMAIL]` – a support address you check
+- `jsmmakes` – your name or company, as on your developer account
+- `jsupranshm@gmail.com` – a support address you check
 - `[APP STORE LINK]` – in `index.html`, once the app is live (until then, remove the button)
 
 ## Hosting (free options)
